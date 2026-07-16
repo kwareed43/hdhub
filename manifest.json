@@ -5,7 +5,7 @@
   "version": "1.0.1",
   "scrapers": [
     {
-      "id": "FS1",
+      "id": "hdhub4u",
       "name": "FS1",
       "description": "HDHub4u movie and TV direct stream/download links",
       "version": "1.0.2",
@@ -18,7 +18,7 @@
       "contentLanguage": ["hi", "en"]
     },
     {
-      "id": "FS2",
+      "id": "netmirror",
       "name": "FS2",
       "description": "Netflix | Prime | Disney",
       "version": "1.0.2",
