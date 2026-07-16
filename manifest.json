@@ -2,7 +2,7 @@
 
 {
   "name": "HDHub4u Nuvio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scrapers": [
     {
       "id": "FS1",
